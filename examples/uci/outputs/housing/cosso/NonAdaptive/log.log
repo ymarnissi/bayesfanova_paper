@@ -1,0 +1,37 @@
+INFO:__main__:Method cosso running...
+
+INFO:__main__:Dataset housing of dimension  = (506, 13)
+INFO:__main__:Number of components to be estimated=91 corresponding to 13 main effects and 78 interaction effects
+
+INFO:__main__:Fold 0, rmse=3.3735, mae=2.1912, r2=0.8725, coverage mean +/- 2.std =0.0000, coverage equal tailed 0.9 interval = 0.0000 
+INFO:__main__:Best results for M=5.994841103529325e-06 giving error=0.08524005115032196
+INFO:__main__:Number of active components (giving 99% of the energy) is 59 out of 91
+
+INFO:__main__:
+Results over 1 folds : rmse=3.3735+/-0.0000, mae=2.1912+/-0.0000, r2=0.8725+/-0.0000, Coverage1=0.0000+/-0.0000, Coverage2=0.0000+/-0.0000
+INFO:__main__:Fold 1, rmse=3.6640, mae=2.3863, r2=0.8207, coverage mean +/- 2.std =0.0000, coverage equal tailed 0.9 interval = 0.0000 
+INFO:__main__:Best results for M=5.994841103529325e-06 giving error=0.053304120898246765
+INFO:__main__:Number of active components (giving 99% of the energy) is 58 out of 91
+
+INFO:__main__:
+Results over 2 folds : rmse=3.5187+/-0.1452, mae=2.2887+/-0.0975, r2=0.8466+/-0.0259, Coverage1=0.0000+/-0.0000, Coverage2=0.0000+/-0.0000
+INFO:__main__:Fold 2, rmse=2.6936, mae=1.9603, r2=0.9331, coverage mean +/- 2.std =0.0000, coverage equal tailed 0.9 interval = 0.0000 
+INFO:__main__:Best results for M=1.0000000116860974e-07 giving error=0.0841163918375969
+INFO:__main__:Number of active components (giving 99% of the energy) is 55 out of 91
+
+INFO:__main__:
+Results over 3 folds : rmse=3.2437+/-0.4067, mae=2.1792+/-0.1741, r2=0.8754+/-0.0459, Coverage1=0.0000+/-0.0000, Coverage2=0.0000+/-0.0000
+INFO:__main__:Fold 3, rmse=3.0986, mae=2.0002, r2=0.8705, coverage mean +/- 2.std =0.0000, coverage equal tailed 0.9 interval = 0.0000 
+INFO:__main__:Best results for M=1.0000000116860974e-07 giving error=0.07704845070838928
+INFO:__main__:Number of active components (giving 99% of the energy) is 62 out of 91
+
+INFO:__main__:
+Results over 4 folds : rmse=3.2074+/-0.3577, mae=2.1345+/-0.1695, r2=0.8742+/-0.0398, Coverage1=0.0000+/-0.0000, Coverage2=0.0000+/-0.0000
+INFO:__main__:Fold 4, rmse=2.4909, mae=1.8136, r2=0.9160, coverage mean +/- 2.std =0.0000, coverage equal tailed 0.9 interval = 0.0000 
+INFO:__main__:Best results for M=4.6415872930083424e-05 giving error=0.09082575887441635
+INFO:__main__:Number of active components (giving 99% of the energy) is 57 out of 91
+
+INFO:__main__:
+Results over 5 folds : rmse=3.0641+/-0.4296, mae=2.0703+/-0.1987, r2=0.8825+/-0.0394, Coverage1=0.0000+/-0.0000, Coverage2=0.0000+/-0.0000
+INFO:__main__:
+Results : rmse=3.0641+/-0.4296, mae=2.0703+/-0.1987, r2=0.8825+/-0.0394, Coverage1=0.0000+/-0.0000, Coverage2=0.0000+/-0.0000, active=58.2000+/-2.3152

@@ -1,0 +1,228 @@
+INFO:__main__:Dataset of dimension  = (506, 13)
+INFO:__main__:Number of components to be estimated=91 corresponding to 13 main effects and 78 interaction effects
+
+INFO:__main__:Number of active components  is 19 out of 91
+
+INFO:__main__:Dataset 0, rmse=13.7469, mae=10.1744, r2=-0.9820
+INFO:__main__:
+Results over 1 datasets : rmse=13.7469+/-0.0000, mae=10.1744+/-0.0000,r2=-0.9820+/-0.0000
+INFO:__main__:Number of active components  is 19.0000+/-0.0000 out of 91
+
+INFO:__main__:Number of active components  is 25 out of 91
+
+INFO:__main__:Dataset 1, rmse=11.1392, mae=8.2705, r2=-0.9410
+INFO:__main__:
+Results over 2 datasets : rmse=12.4431+/-1.3039, mae=9.2224+/-0.9519,r2=-0.9615+/-0.0205
+INFO:__main__:Number of active components  is 22.0000+/-3.0000 out of 91
+
+INFO:__main__:Number of active components  is 23 out of 91
+
+INFO:__main__:Dataset 2, rmse=13.7216, mae=10.7351, r2=-0.9087
+INFO:__main__:
+Results over 3 datasets : rmse=12.8692+/-1.2234, mae=9.7267+/-1.0548,r2=-0.9439+/-0.0300
+INFO:__main__:Number of active components  is 22.3333+/-2.4944 out of 91
+
+INFO:__main__:Number of active components  is 26 out of 91
+
+INFO:__main__:Dataset 3, rmse=12.0550, mae=8.7655, r2=-1.0396
+INFO:__main__:
+Results over 4 datasets : rmse=12.6657+/-1.1166, mae=9.4864+/-1.0038,r2=-0.9678+/-0.0489
+INFO:__main__:Number of active components  is 23.2500+/-2.6810 out of 91
+
+INFO:__main__:Number of active components  is 24 out of 91
+
+INFO:__main__:Dataset 4, rmse=12.8232, mae=9.6362, r2=-0.9335
+INFO:__main__:
+Results over 5 datasets : rmse=12.6972+/-1.0007, mae=9.5163+/-0.8999,r2=-0.9610+/-0.0459
+INFO:__main__:Number of active components  is 23.4000+/-2.4166 out of 91
+
+INFO:__main__:Dataset of dimension  = (506, 13)
+INFO:__main__:Number of components to be estimated=91 corresponding to 13 main effects and 78 interaction effects
+
+INFO:__main__:Number of active components  is 19 out of 91
+
+INFO:__main__:Dataset 0, rmse=13.7469, mae=10.1744, r2=-0.9820
+INFO:__main__:
+Results over 1 datasets : rmse=13.7469+/-0.0000, mae=10.1744+/-0.0000,r2=-0.9820+/-0.0000
+INFO:__main__:Number of active components  is 19.0000+/-0.0000 out of 91
+
+INFO:__main__:Number of active components  is 25 out of 91
+
+INFO:__main__:Dataset 1, rmse=11.1392, mae=8.2705, r2=-0.9410
+INFO:__main__:
+Results over 2 datasets : rmse=12.4431+/-1.3039, mae=9.2224+/-0.9519,r2=-0.9615+/-0.0205
+INFO:__main__:Number of active components  is 22.0000+/-3.0000 out of 91
+
+INFO:__main__:Number of active components  is 23 out of 91
+
+INFO:__main__:Dataset 2, rmse=13.7216, mae=10.7351, r2=-0.9087
+INFO:__main__:
+Results over 3 datasets : rmse=12.8692+/-1.2234, mae=9.7267+/-1.0548,r2=-0.9439+/-0.0300
+INFO:__main__:Number of active components  is 22.3333+/-2.4944 out of 91
+
+INFO:__main__:Number of active components  is 26 out of 91
+
+INFO:__main__:Dataset 3, rmse=12.0550, mae=8.7655, r2=-1.0396
+INFO:__main__:
+Results over 4 datasets : rmse=12.6657+/-1.1166, mae=9.4864+/-1.0038,r2=-0.9678+/-0.0489
+INFO:__main__:Number of active components  is 23.2500+/-2.6810 out of 91
+
+INFO:__main__:Number of active components  is 24 out of 91
+
+INFO:__main__:Dataset 4, rmse=12.8232, mae=9.6362, r2=-0.9335
+INFO:__main__:
+Results over 5 datasets : rmse=12.6972+/-1.0007, mae=9.5163+/-0.8999,r2=-0.9610+/-0.0459
+INFO:__main__:Number of active components  is 23.4000+/-2.4166 out of 91
+
+INFO:__main__:Dataset of dimension  = (506, 13)
+INFO:__main__:Number of components to be estimated=91 corresponding to 13 main effects and 78 interaction effects
+
+INFO:__main__:Number of active components  is 19 out of 91
+
+INFO:__main__:Dataset 0, rmse=13.7469, mae=10.1744, r2=-0.9820
+INFO:__main__:
+Results over 1 datasets : rmse=13.7469+/-0.0000, mae=10.1744+/-0.0000,r2=-0.9820+/-0.0000
+INFO:__main__:Number of active components  is 19.0000+/-0.0000 out of 91
+
+INFO:__main__:Number of active components  is 25 out of 91
+
+INFO:__main__:Dataset 1, rmse=11.1392, mae=8.2705, r2=-0.9410
+INFO:__main__:
+Results over 2 datasets : rmse=12.4431+/-1.3039, mae=9.2224+/-0.9519,r2=-0.9615+/-0.0205
+INFO:__main__:Number of active components  is 22.0000+/-3.0000 out of 91
+
+INFO:__main__:Number of active components  is 23 out of 91
+
+INFO:__main__:Dataset 2, rmse=13.7216, mae=10.7351, r2=-0.9087
+INFO:__main__:
+Results over 3 datasets : rmse=12.8692+/-1.2234, mae=9.7267+/-1.0548,r2=-0.9439+/-0.0300
+INFO:__main__:Number of active components  is 22.3333+/-2.4944 out of 91
+
+INFO:__main__:Number of active components  is 26 out of 91
+
+INFO:__main__:Dataset 3, rmse=12.0550, mae=8.7655, r2=-1.0396
+INFO:__main__:
+Results over 4 datasets : rmse=12.6657+/-1.1166, mae=9.4864+/-1.0038,r2=-0.9678+/-0.0489
+INFO:__main__:Number of active components  is 23.2500+/-2.6810 out of 91
+
+INFO:__main__:Number of active components  is 24 out of 91
+
+INFO:__main__:Dataset 4, rmse=12.8167, mae=9.6255, r2=-0.9315
+INFO:__main__:
+Results over 5 datasets : rmse=12.6959+/-1.0005, mae=9.5142+/-0.8996,r2=-0.9606+/-0.0461
+INFO:__main__:Number of active components  is 23.4000+/-2.4166 out of 91
+
+INFO:__main__:Dataset of dimension  = (506, 13)
+INFO:__main__:Number of components to be estimated=91 corresponding to 13 main effects and 78 interaction effects
+
+INFO:__main__:Number of active components  is 21 out of 91
+
+INFO:__main__:Dataset 0, rmse=13.8140, mae=10.2318, r2=-1.0013
+INFO:__main__:
+Results over 1 datasets : rmse=13.8140+/-0.0000, mae=10.2318+/-0.0000,r2=-1.0013+/-0.0000
+INFO:__main__:Number of active components  is 21.0000+/-0.0000 out of 91
+
+INFO:__main__:Number of active components  is 26 out of 91
+
+INFO:__main__:Dataset 1, rmse=11.3100, mae=8.4166, r2=-1.0010
+INFO:__main__:
+Results over 2 datasets : rmse=12.5620+/-1.2520, mae=9.3242+/-0.9076,r2=-1.0012+/-0.0002
+INFO:__main__:Number of active components  is 23.5000+/-2.5000 out of 91
+
+INFO:__main__:Number of active components  is 26 out of 91
+
+INFO:__main__:Dataset 2, rmse=13.9780, mae=10.8990, r2=-0.9806
+INFO:__main__:
+Results over 3 datasets : rmse=13.0340+/-1.2209, mae=9.8491+/-1.0489,r2=-0.9943+/-0.0097
+INFO:__main__:Number of active components  is 24.3333+/-2.3570 out of 91
+
+INFO:__main__:Number of active components  is 29 out of 91
+
+INFO:__main__:Dataset 3, rmse=12.0450, mae=8.7069, r2=-1.0362
+INFO:__main__:
+Results over 4 datasets : rmse=12.7867+/-1.1407, mae=9.5636+/-1.0343,r2=-1.0048+/-0.0200
+INFO:__main__:Number of active components  is 25.5000+/-2.8723 out of 91
+
+INFO:__main__:Number of active components  is 25 out of 91
+
+INFO:__main__:Dataset 4, rmse=12.6318, mae=9.4527, r2=-0.8762
+INFO:__main__:
+Results over 5 datasets : rmse=12.7557+/-1.0222, mae=9.5414+/-0.9262,r2=-0.9791+/-0.0544
+INFO:__main__:Number of active components  is 25.4000+/-2.5768 out of 91
+
+INFO:__main__:Dataset of dimension  = (60, 12)
+INFO:__main__:Number of components to be estimated=78 corresponding to 12 main effects and 66 interaction effects
+
+INFO:__main__:Number of active components  is 5 out of 78
+
+INFO:__main__:Dataset 0, rmse=11.9954, mae=7.0948, r2=0.9905
+INFO:__main__:
+Results over 1 datasets : rmse=11.9954+/-0.0000, mae=7.0948+/-0.0000,r2=0.9905+/-0.0000
+INFO:__main__:Number of active components  is 5.0000+/-0.0000 out of 78
+
+INFO:__main__:Number of active components  is 9 out of 78
+
+INFO:__main__:Dataset 1, rmse=7.1508, mae=5.4933, r2=0.9857
+INFO:__main__:
+Results over 2 datasets : rmse=9.5731+/-2.4223, mae=6.2941+/-0.8007,r2=0.9881+/-0.0024
+INFO:__main__:Number of active components  is 7.0000+/-2.0000 out of 78
+
+INFO:__main__:Number of active components  is 3 out of 78
+
+INFO:__main__:Dataset 2, rmse=0.0000, mae=0.0000, r2=1.0000
+INFO:__main__:
+Results over 3 datasets : rmse=6.3821+/-4.9272, mae=4.1961+/-3.0382,r2=0.9921+/-0.0059
+INFO:__main__:Number of active components  is 5.6667+/-2.4944 out of 78
+
+INFO:__main__:Number of active components  is 7 out of 78
+
+INFO:__main__:Dataset 3, rmse=97.3509, mae=44.2476, r2=-3.2886
+INFO:__main__:
+Results over 4 datasets : rmse=29.1243+/-39.6211, mae=14.2089+/-17.5413,r2=-0.0781+/-1.8536
+INFO:__main__:Number of active components  is 6.0000+/-2.2361 out of 78
+
+INFO:__main__:Number of active components  is 9 out of 78
+
+INFO:__main__:Dataset 4, rmse=9.8340, mae=8.3006, r2=0.9909
+INFO:__main__:
+Results over 5 datasets : rmse=25.2662+/-36.2685, mae=13.0273+/-15.8664,r2=0.1357+/-1.7122
+INFO:__main__:Number of active components  is 6.6000+/-2.3324 out of 78
+
+INFO:__main__:Dataset of dimension  = (60, 12)
+INFO:__main__:Number of components to be estimated=78 corresponding to 12 main effects and 66 interaction effects
+
+INFO:__main__:Number of active components  is 9 out of 78
+
+INFO:__main__:Dataset 0, rmse=15.1913, mae=10.7745, r2=0.9848
+INFO:__main__:
+Results over 1 datasets : rmse=15.1913+/-0.0000, mae=10.7745+/-0.0000,r2=0.9848+/-0.0000
+INFO:__main__:Number of active components  is 9.0000+/-0.0000 out of 78
+
+INFO:__main__:Number of active components  is 9 out of 78
+
+INFO:__main__:Dataset 1, rmse=5.8648, mae=4.5426, r2=0.9904
+INFO:__main__:
+Results over 2 datasets : rmse=10.5281+/-4.6633, mae=7.6586+/-3.1160,r2=0.9876+/-0.0028
+INFO:__main__:Number of active components  is 9.0000+/-0.0000 out of 78
+
+INFO:__main__:Number of active components  is 3 out of 78
+
+INFO:__main__:Dataset 2, rmse=0.0000, mae=0.0000, r2=1.0000
+INFO:__main__:
+Results over 3 datasets : rmse=7.0187+/-6.2553, mae=5.1057+/-4.4167,r2=0.9917+/-0.0063
+INFO:__main__:Number of active components  is 7.0000+/-2.8284 out of 78
+
+INFO:__main__:Number of active components  is 4 out of 78
+
+INFO:__main__:Dataset 3, rmse=46.5490, mae=17.7021, r2=0.0195
+INFO:__main__:
+Results over 4 datasets : rmse=16.9013+/-17.9539, mae=8.2548+/-6.6619,r2=0.7487+/-0.4210
+INFO:__main__:Number of active components  is 6.2500+/-2.7726 out of 78
+
+INFO:__main__:Number of active components  is 9 out of 78
+
+INFO:__main__:Dataset 4, rmse=4.9487, mae=3.6828, r2=0.9977
+INFO:__main__:
+Results over 5 datasets : rmse=14.5108+/-16.7550, mae=7.3404+/-6.2329,r2=0.7985+/-0.3895
+INFO:__main__:Number of active components  is 6.8000+/-2.7129 out of 78
+

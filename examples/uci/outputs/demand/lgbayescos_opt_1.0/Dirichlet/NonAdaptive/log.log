@@ -1,0 +1,64 @@
+INFO:__main__:Method lgbayescos_opt running...
+
+INFO:__main__:Dataset demand of dimension  = (60, 12)
+INFO:__main__:Number of components to be estimated=78 corresponding to 12 main effects and 66 interaction effects
+
+INFO:__main__:Fold 0, rmse=56.1949, mae=25.5886, r2=0.7005, coverage mean +/- 2.std =1.0000, coverage equal tailed 0.9 interval = 1.0000 
+INFO:__main__:Number of active components (giving 99% of the energy) is 47 out of 78
+
+INFO:__main__:
+Results over 1 folds : rmse=56.1949+/-0.0000, mae=25.5886+/-0.0000, r2=0.7005+/-0.0000, Coverage1=1.0000+/-0.0000, Coverage2=1.0000+/-0.0000
+INFO:__main__:Fold 1, rmse=58.4999, mae=41.1960, r2=0.5866, coverage mean +/- 2.std =1.0000, coverage equal tailed 0.9 interval = 1.0000 
+INFO:__main__:Number of active components (giving 99% of the energy) is 41 out of 78
+
+INFO:__main__:
+Results over 2 folds : rmse=57.3474+/-1.1525, mae=33.3923+/-7.8037, r2=0.6436+/-0.0570, Coverage1=1.0000+/-0.0000, Coverage2=1.0000+/-0.0000
+INFO:__main__:Fold 2, rmse=38.5567, mae=19.7605, r2=0.8110, coverage mean +/- 2.std =1.0000, coverage equal tailed 0.9 interval = 1.0000 
+INFO:__main__:Number of active components (giving 99% of the energy) is 40 out of 78
+
+INFO:__main__:
+Results over 3 folds : rmse=51.0838+/-8.9079, mae=28.8484+/-9.0495, r2=0.6994+/-0.0916, Coverage1=1.0000+/-0.0000, Coverage2=1.0000+/-0.0000
+INFO:__main__:Fold 3, rmse=44.0624, mae=22.0406, r2=0.7172, coverage mean +/- 2.std =1.0000, coverage equal tailed 0.9 interval = 1.0000 
+INFO:__main__:Number of active components (giving 99% of the energy) is 45 out of 78
+
+INFO:__main__:
+Results over 4 folds : rmse=49.3285+/-8.2919, mae=27.1464+/-8.3731, r2=0.7038+/-0.0797, Coverage1=1.0000+/-0.0000, Coverage2=1.0000+/-0.0000
+INFO:__main__:Fold 4, rmse=28.7369, mae=19.3897, r2=0.7549, coverage mean +/- 2.std =1.0000, coverage equal tailed 0.9 interval = 1.0000 
+INFO:__main__:Number of active components (giving 99% of the energy) is 45 out of 78
+
+INFO:__main__:
+Results over 5 folds : rmse=45.2102+/-11.0837, mae=25.5951+/-8.1064, r2=0.7140+/-0.0742, Coverage1=1.0000+/-0.0000, Coverage2=1.0000+/-0.0000
+INFO:__main__:
+Results : rmse=45.2102+/-11.0837, mae=25.5951+/-8.1064, r2=0.7140+/-0.0742, Coverage1=1.0000+/-0.0000, Coverage2=1.0000+/-0.0000, active=43.6000+/-2.6533
+INFO:__main__:Method lgbayescos_opt running...
+
+INFO:__main__:Dataset demand of dimension  = (60, 12)
+INFO:__main__:Number of components to be estimated=78 corresponding to 12 main effects and 66 interaction effects
+
+INFO:__main__:Fold 0, rmse=16.7547, mae=9.2939, r2=0.9734, coverage mean +/- 2.std =0.9167, coverage equal tailed 0.9 interval = 0.9167 
+INFO:__main__:Number of active components (giving 99% of the energy) is 3 out of 78
+
+INFO:__main__:
+Results over 1 folds : rmse=16.7547+/-0.0000, mae=9.2939+/-0.0000, r2=0.9734+/-0.0000, Coverage1=0.9167+/-0.0000, Coverage2=0.9167+/-0.0000
+INFO:__main__:Fold 1, rmse=48.2264, mae=21.6019, r2=0.7190, coverage mean +/- 2.std =0.9167, coverage equal tailed 0.9 interval = 0.9167 
+INFO:__main__:Number of active components (giving 99% of the energy) is 1 out of 78
+
+INFO:__main__:
+Results over 2 folds : rmse=32.4906+/-15.7359, mae=15.4479+/-6.1540, r2=0.8462+/-0.1272, Coverage1=0.9167+/-0.0000, Coverage2=0.9167+/-0.0000
+INFO:__main__:Fold 2, rmse=9.0447, mae=3.0884, r2=0.9896, coverage mean +/- 2.std =1.0000, coverage equal tailed 0.9 interval = 1.0000 
+INFO:__main__:Number of active components (giving 99% of the energy) is 2 out of 78
+
+INFO:__main__:
+Results over 3 folds : rmse=24.6753+/-16.9480, mae=11.3281+/-7.6938, r2=0.8940+/-0.1239, Coverage1=0.9444+/-0.0393, Coverage2=0.9444+/-0.0393
+INFO:__main__:Fold 3, rmse=6.9113, mae=2.7130, r2=0.9930, coverage mean +/- 2.std =1.0000, coverage equal tailed 0.9 interval = 1.0000 
+INFO:__main__:Number of active components (giving 99% of the energy) is 2 out of 78
+
+INFO:__main__:
+Results over 4 folds : rmse=20.2343+/-16.5709, mae=9.1743+/-7.6362, r2=0.9188+/-0.1155, Coverage1=0.9583+/-0.0417, Coverage2=0.9583+/-0.0417
+INFO:__main__:Fold 4, rmse=18.6417, mae=13.6864, r2=0.8969, coverage mean +/- 2.std =0.9167, coverage equal tailed 0.9 interval = 0.9167 
+INFO:__main__:Number of active components (giving 99% of the energy) is 3 out of 78
+
+INFO:__main__:
+Results over 5 folds : rmse=19.9158+/-14.8351, mae=10.0767+/-7.0645, r2=0.9144+/-0.1037, Coverage1=0.9500+/-0.0408, Coverage2=0.9500+/-0.0408
+INFO:__main__:
+Results : rmse=19.9158+/-14.8351, mae=10.0767+/-7.0645, r2=0.9144+/-0.1037, Coverage1=0.9500+/-0.0408, Coverage2=0.9500+/-0.0408, active=2.2000+/-0.7483

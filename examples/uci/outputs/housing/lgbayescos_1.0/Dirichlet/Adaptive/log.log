@@ -1,0 +1,32 @@
+INFO:__main__:Method lgbayescos running...
+
+INFO:__main__:Dataset housing of dimension  = (506, 13)
+INFO:__main__:Number of components to be estimated=91 corresponding to 13 main effects and 78 interaction effects
+
+INFO:__main__:Fold 0, rmse=3.5509, mae=2.4160, r2=0.8587, coverage mean +/- 2.std =0.8725, coverage equal tailed 0.9 interval = 0.8627 
+INFO:__main__:Number of active components (giving 99% of the energy) is 28 out of 91
+
+INFO:__main__:
+Results over 1 folds : rmse=3.5509+/-0.0000, mae=2.4160+/-0.0000, r2=0.8587+/-0.0000, Coverage1=0.8725+/-0.0000, Coverage2=0.8627+/-0.0000
+INFO:__main__:Fold 1, rmse=3.9013, mae=2.3651, r2=0.7967, coverage mean +/- 2.std =0.8911, coverage equal tailed 0.9 interval = 0.8911 
+INFO:__main__:Number of active components (giving 99% of the energy) is 26 out of 91
+
+INFO:__main__:
+Results over 2 folds : rmse=3.7261+/-0.1752, mae=2.3905+/-0.0254, r2=0.8277+/-0.0310, Coverage1=0.8818+/-0.0093, Coverage2=0.8769+/-0.0142
+INFO:__main__:Fold 2, rmse=2.6314, mae=2.0118, r2=0.9361, coverage mean +/- 2.std =0.9505, coverage equal tailed 0.9 interval = 0.9406 
+INFO:__main__:Number of active components (giving 99% of the energy) is 33 out of 91
+
+INFO:__main__:
+Results over 3 folds : rmse=3.3612+/-0.5355, mae=2.2643+/-0.1797, r2=0.8638+/-0.0570, Coverage1=0.9047+/-0.0332, Coverage2=0.8981+/-0.0322
+INFO:__main__:Fold 3, rmse=2.9912, mae=2.0306, r2=0.8793, coverage mean +/- 2.std =0.8713, coverage equal tailed 0.9 interval = 0.8713 
+INFO:__main__:Number of active components (giving 99% of the energy) is 28 out of 91
+
+INFO:__main__:
+Results over 4 folds : rmse=3.2687+/-0.4907, mae=2.2059+/-0.1857, r2=0.8677+/-0.0498, Coverage1=0.8964+/-0.0322, Coverage2=0.8914+/-0.0302
+INFO:__main__:Fold 4, rmse=2.5589, mae=1.8372, r2=0.9113, coverage mean +/- 2.std =0.9406, coverage equal tailed 0.9 interval = 0.9307 
+INFO:__main__:Number of active components (giving 99% of the energy) is 31 out of 91
+
+INFO:__main__:
+Results over 5 folds : rmse=3.1267+/-0.5227, mae=2.1321+/-0.2221, r2=0.8764+/-0.0479, Coverage1=0.9052+/-0.0338, Coverage2=0.8993+/-0.0312
+INFO:__main__:
+Results : rmse=3.1267+/-0.5227, mae=2.1321+/-0.2221, r2=0.8764+/-0.0479, Coverage1=0.9052+/-0.0338, Coverage2=0.8993+/-0.0312, active=29.2000+/-2.4819

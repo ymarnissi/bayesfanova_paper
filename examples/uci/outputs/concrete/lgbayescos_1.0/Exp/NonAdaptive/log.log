@@ -1,0 +1,16 @@
+INFO:__main__:Method lgbayescos running...
+
+INFO:__main__:Dataset concrete of dimension  = (1000, 8)
+INFO:__main__:Number of components to be estimated=36 corresponding to 8 main effects and 28 interaction effects
+
+INFO:__main__:Fold 0, rmse=4.2337, mae=2.7770, r2=0.9358, coverage mean +/- 2.std =0.8650, coverage equal tailed 0.9 interval = 0.8550 
+INFO:__main__:Number of active components (giving 99% of the energy) is 23 out of 36
+
+INFO:__main__:
+Results over 1 folds : rmse=4.2337+/-0.0000, mae=2.7770+/-0.0000, r2=0.9358+/-0.0000, Coverage1=0.8650+/-0.0000, Coverage2=0.8550+/-0.0000
+INFO:__main__:Fold 1, rmse=3.8892, mae=2.6489, r2=0.9449, coverage mean +/- 2.std =0.8750, coverage equal tailed 0.9 interval = 0.8650 
+INFO:__main__:Number of active components (giving 99% of the energy) is 21 out of 36
+
+INFO:__main__:
+Results over 2 folds : rmse=4.0614+/-0.1722, mae=2.7130+/-0.0641, r2=0.9403+/-0.0046, Coverage1=0.8700+/-0.0050, Coverage2=0.8600+/-0.0050
+INFO:__main__:Fold 2, rmse=4.5737, mae=3.1077, r2=0.9313, coverage mean +/- 2.std =0.8500, coverage equal tailed 0.9 interval = 0.8400 

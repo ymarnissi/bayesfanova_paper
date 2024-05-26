@@ -1,0 +1,54 @@
+INFO:__main__:Dataset of dimension  = (100, 55)
+INFO:__main__:Number of components to be estimated=55 main effects
+
+INFO:__main__:Number of components to be estimated=1540 corresponding to 55 main effects and 1485 interaction effects
+
+INFO:__main__:Some issue
+INFO:__main__:Number of active components  is 2 out of 55
+
+INFO:__main__:Dataset 1, rmse=2.7961, mae=2.2896, r2=0.3866
+INFO:__main__:Some issue
+INFO:__main__:Number of active components  is 2 out of 55
+
+INFO:__main__:Dataset 2, rmse=2.5173, mae=2.0882, r2=0.5775
+INFO:__main__:Some issue
+INFO:__main__:Some issue
+INFO:__main__:Number of active components  is 3 out of 55
+
+INFO:__main__:Dataset 4, rmse=1.9484, mae=1.5704, r2=0.7672
+INFO:__main__:Some issue
+INFO:__main__:Number of active components  is 2 out of 55
+
+INFO:__main__:Dataset 5, rmse=3.2737, mae=2.7872, r2=0.4226
+INFO:__main__:Some issue
+INFO:__main__:Number of active components  is 3 out of 55
+
+INFO:__main__:Dataset 6, rmse=2.6381, mae=2.1397, r2=0.6237
+INFO:__main__:Some issue
+INFO:__main__:Number of active components  is 2 out of 55
+
+INFO:__main__:Dataset 7, rmse=2.8206, mae=2.2156, r2=0.5396
+INFO:__main__:Some issue
+INFO:__main__:Number of active components  is 2 out of 55
+
+INFO:__main__:Dataset 8, rmse=2.0483, mae=1.7172, r2=0.7326
+INFO:__main__:Some issue
+INFO:__main__:Some issue
+INFO:__main__:Dataset of dimension  = (100, 55)
+INFO:__main__:Number of components to be estimated=55 main effects
+
+INFO:__main__:Number of components to be estimated=1540 corresponding to 55 main effects and 1485 interaction effects
+
+INFO:__main__:Some issue with dataset 0
+INFO:__main__:Some issue with dataset 1
+INFO:__main__:Number of active components  is 2 out of 55
+
+INFO:__main__:Dataset 2, rmse=2.4370, mae=2.0073, r2=0.6040
+INFO:__main__:Some issue with dataset 2
+INFO:__main__:Some issue with dataset 3
+INFO:__main__:Some issue with dataset 4
+INFO:__main__:Some issue with dataset 5
+INFO:__main__:Some issue with dataset 6
+INFO:__main__:Some issue with dataset 7
+INFO:__main__:Some issue with dataset 8
+INFO:__main__:Some issue with dataset 9

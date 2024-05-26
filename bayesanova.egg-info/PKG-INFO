@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: bayesanova
+Version: 0.0.1
+Summary: GP regression with FANOVA decomposition
+Home-page: UNKNOWN
+Author: anonyomous
+Author-email: anonyomous
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: Sobolev,ANOVA,Gaussian Process,component selection,Bayesian
+Platform: UNKNOWN
+Requires-Python: >=3.8

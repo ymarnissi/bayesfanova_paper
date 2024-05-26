@@ -1,0 +1,45 @@
+INFO:__main__:Dataset of dimension  = (392, 7)
+INFO:__main__:Number of components to be estimated=28 corresponding to 7 main effects and 21 interaction effects
+
+INFO:__main__:Dataset of dimension  = (392, 7)
+INFO:__main__:Number of components to be estimated=28 corresponding to 7 main effects and 21 interaction effects
+
+INFO:__main__:Dataset of dimension  = (392, 7)
+INFO:__main__:Number of components to be estimated=28 corresponding to 7 main effects and 21 interaction effects
+
+INFO:__main__:Dataset of dimension  = (392, 7)
+INFO:__main__:Number of components to be estimated=28 corresponding to 7 main effects and 21 interaction effects
+
+INFO:__main__:Dataset of dimension  = (392, 7)
+INFO:__main__:Number of components to be estimated=28 corresponding to 7 main effects and 21 interaction effects
+
+INFO:__main__:Dataset of dimension  = (392, 7)
+INFO:__main__:Number of components to be estimated=28 corresponding to 7 main effects and 21 interaction effects
+
+INFO:__main__:Number of active components  is 10 out of 28
+
+INFO:__main__:Dataset 0, rmse=10.8412, mae=8.7497, r2=-0.8385
+INFO:__main__:
+Results over 1 datasets : rmse=10.8412+/-0.0000, mae=8.7497+/-0.0000,r2=-0.8385+/-0.0000
+INFO:__main__:Number of active components  is 10.0000+/-0.0000 out of 28
+
+INFO:__main__:Dataset of dimension  = (392, 7)
+INFO:__main__:Number of components to be estimated=28 corresponding to 7 main effects and 21 interaction effects
+
+INFO:__main__:Number of active components  is 28 out of 28
+
+INFO:__main__:Dataset 0, rmse=11.0533, mae=8.8961, r2=-0.9111
+INFO:__main__:
+Results over 1 datasets : rmse=11.0533+/-0.0000, mae=8.8961+/-0.0000,r2=-0.9111+/-0.0000
+INFO:__main__:Number of active components  is 28.0000+/-0.0000 out of 28
+
+INFO:__main__:Dataset of dimension  = (392, 7)
+INFO:__main__:Number of components to be estimated=28 corresponding to 7 main effects and 21 interaction effects
+
+INFO:__main__:Number of active components  is 28 out of 28
+
+INFO:__main__:Dataset 0, rmse=11.0533, mae=8.8961, r2=-0.9111
+INFO:__main__:
+Results over 1 datasets : rmse=11.0533+/-0.0000, mae=8.8961+/-0.0000,r2=-0.9111+/-0.0000
+INFO:__main__:Number of active components  is 28.0000+/-0.0000 out of 28
+

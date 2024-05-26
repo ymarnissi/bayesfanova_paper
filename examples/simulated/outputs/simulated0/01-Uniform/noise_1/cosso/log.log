@@ -1,0 +1,85 @@
+INFO:__main__:Method cosso running...
+
+INFO:__main__:Dataset of dimension  = (100, 55)
+INFO:__main__:Number of components to be estimated=1540 corresponding to 55 main effects and 1485 interaction effects
+
+INFO:__main__:Dataset 0, rmse=1.0210, mae=0.8325, r2=0.9478, coverage mean +/- 2.std =0.0000, coverage equal tailed 0.9 interval = 0.0000 
+INFO:__main__:Best results for M=0.49770215153694153 giving error=1.6177194118499756
+INFO:__main__:Number of active components (giving 99% of the energy) is 4 out of 55
+
+INFO:__main__:TP: 4.00000, TN : 51.00000, FP : 0.00000, FN : 0.00000
+
+INFO:__main__:
+Results over 0 datasets : rmse=1.0210+/-0.0000, mae=0.8325+/-0.0000,                  r2=0.9478+/-0.0000, Coverage1=0.0000+/-0.0000,                      Coverage2=0.0000+/-0.0000,                      TP=4.0000+/-0.0000, TN=51.0000+/-0.0000,                           FP=0.0000+/-0.0000, FN=0.0000+/-0.0000
+INFO:__main__:Dataset 1, rmse=0.9914, mae=0.7440, r2=0.9175, coverage mean +/- 2.std =0.0000, coverage equal tailed 0.9 interval = 0.0000 
+INFO:__main__:Best results for M=0.7054799199104309 giving error=3.2837777137756348
+INFO:__main__:Number of active components (giving 99% of the energy) is 4 out of 55
+
+INFO:__main__:TP: 4.00000, TN : 51.00000, FP : 0.00000, FN : 0.00000
+
+INFO:__main__:
+Results over 1 datasets : rmse=1.0062+/-0.0148, mae=0.7882+/-0.0442,                  r2=0.9327+/-0.0151, Coverage1=0.0000+/-0.0000,                      Coverage2=0.0000+/-0.0000,                      TP=4.0000+/-0.0000, TN=51.0000+/-0.0000,                           FP=0.0000+/-0.0000, FN=0.0000+/-0.0000
+INFO:__main__:Dataset 2, rmse=3.3888, mae=2.7837, r2=0.1039, coverage mean +/- 2.std =0.0000, coverage equal tailed 0.9 interval = 0.0000 
+INFO:__main__:Best results for M=0.0018738183425739408 giving error=2.7697975635528564
+INFO:__main__:Number of active components (giving 99% of the energy) is 48 out of 55
+
+INFO:__main__:TP: 4.00000, TN : 7.00000, FP : 44.00000, FN : 0.00000
+
+INFO:__main__:
+Results over 2 datasets : rmse=1.8004+/-1.1232, mae=1.4534+/-0.9414,                  r2=0.6564+/-0.3909, Coverage1=0.0000+/-0.0000,                      Coverage2=0.0000+/-0.0000,                      TP=4.0000+/-0.0000, TN=36.3333+/-20.7418,                           FP=14.6667+/-20.7418, FN=0.0000+/-0.0000
+INFO:__main__:Dataset 3, rmse=2.2257, mae=1.6774, r2=0.6778, coverage mean +/- 2.std =0.0000, coverage equal tailed 0.9 interval = 0.0000 
+INFO:__main__:Best results for M=0.12328468263149261 giving error=2.9338417053222656
+INFO:__main__:Number of active components (giving 99% of the energy) is 25 out of 55
+
+INFO:__main__:TP: 4.00000, TN : 30.00000, FP : 21.00000, FN : 0.00000
+
+INFO:__main__:
+Results over 3 datasets : rmse=1.9067+/-0.9900, mae=1.5094+/-0.8210,                  r2=0.6618+/-0.3386, Coverage1=0.0000+/-0.0000,                      Coverage2=0.0000+/-0.0000,                      TP=4.0000+/-0.0000, TN=34.7500+/-18.1711,                           FP=16.2500+/-18.1711, FN=0.0000+/-0.0000
+INFO:__main__:Dataset 4, rmse=3.2468, mae=2.6123, r2=0.2411, coverage mean +/- 2.std =0.0000, coverage equal tailed 0.9 interval = 0.0000 
+INFO:__main__:Best results for M=1.2328478078416083e-06 giving error=2.8847076892852783
+INFO:__main__:Number of active components (giving 99% of the energy) is 51 out of 55
+
+INFO:__main__:TP: 4.00000, TN : 4.00000, FP : 47.00000, FN : 0.00000
+
+INFO:__main__:
+Results over 4 datasets : rmse=2.1747+/-1.0351, mae=1.7299+/-0.8566,                  r2=0.5776+/-0.3465, Coverage1=0.0000+/-0.0000,                      Coverage2=0.0000+/-0.0000,                      TP=4.0000+/-0.0000, TN=28.6000+/-20.3823,                           FP=22.4000+/-20.3823, FN=0.0000+/-0.0000
+INFO:__main__:Dataset 5, rmse=3.2789, mae=2.7018, r2=0.2457, coverage mean +/- 2.std =0.0000, coverage equal tailed 0.9 interval = 0.0000 
+INFO:__main__:Best results for M=0.00011497568630147725 giving error=3.956292152404785
+INFO:__main__:Number of active components (giving 99% of the energy) is 46 out of 55
+
+INFO:__main__:TP: 4.00000, TN : 9.00000, FP : 42.00000, FN : 0.00000
+
+INFO:__main__:
+Results over 5 datasets : rmse=2.3588+/-1.0306, mae=1.8919+/-0.8618,                  r2=0.5223+/-0.3396, Coverage1=0.0000+/-0.0000,                      Coverage2=0.0000+/-0.0000,                      TP=4.0000+/-0.0000, TN=25.3333+/-19.9889,                           FP=25.6667+/-19.9889, FN=0.0000+/-0.0000
+INFO:__main__:Dataset 6, rmse=1.8699, mae=1.4768, r2=0.7531, coverage mean +/- 2.std =0.0000, coverage equal tailed 0.9 interval = 0.0000 
+INFO:__main__:Best results for M=0.24770766496658325 giving error=1.581931710243225
+INFO:__main__:Number of active components (giving 99% of the energy) is 11 out of 55
+
+INFO:__main__:TP: 4.00000, TN : 44.00000, FP : 7.00000, FN : 0.00000
+
+INFO:__main__:
+Results over 6 datasets : rmse=2.2889+/-0.9694, mae=1.8326+/-0.8110,                  r2=0.5553+/-0.3246, Coverage1=0.0000+/-0.0000,                      Coverage2=0.0000+/-0.0000,                      TP=4.0000+/-0.0000, TN=28.0000+/-19.6251,                           FP=23.0000+/-19.6251, FN=0.0000+/-0.0000
+INFO:__main__:Dataset 7, rmse=1.7534, mae=1.4687, r2=0.8204, coverage mean +/- 2.std =0.0000, coverage equal tailed 0.9 interval = 0.0000 
+INFO:__main__:Best results for M=0.1747528463602066 giving error=2.907144546508789
+INFO:__main__:Number of active components (giving 99% of the energy) is 17 out of 55
+
+INFO:__main__:TP: 4.00000, TN : 38.00000, FP : 13.00000, FN : 0.00000
+
+INFO:__main__:
+Results over 7 datasets : rmse=2.2220+/-0.9239, mae=1.7871+/-0.7681,                  r2=0.5884+/-0.3161, Coverage1=0.0000+/-0.0000,                      Coverage2=0.0000+/-0.0000,                      TP=4.0000+/-0.0000, TN=29.2500+/-18.6531,                           FP=21.7500+/-18.6531, FN=0.0000+/-0.0000
+INFO:__main__:Dataset 8, rmse=3.0625, mae=2.3919, r2=0.2558, coverage mean +/- 2.std =0.0000, coverage equal tailed 0.9 interval = 0.0000 
+INFO:__main__:Best results for M=1.6297501126416591e-09 giving error=2.7601895332336426
+INFO:__main__:Number of active components (giving 99% of the energy) is 47 out of 55
+
+INFO:__main__:TP: 4.00000, TN : 8.00000, FP : 43.00000, FN : 0.00000
+
+INFO:__main__:
+Results over 8 datasets : rmse=2.3154+/-0.9103, mae=1.8543+/-0.7487,                  r2=0.5515+/-0.3158, Coverage1=0.0000+/-0.0000,                      Coverage2=0.0000+/-0.0000,                      TP=4.0000+/-0.0000, TN=26.8889+/-18.8116,                           FP=24.1111+/-18.8116, FN=0.0000+/-0.0000
+INFO:__main__:Dataset 9, rmse=1.2417, mae=1.0019, r2=0.8918, coverage mean +/- 2.std =0.0000, coverage equal tailed 0.9 interval = 0.0000 
+INFO:__main__:Best results for M=0.9999995827674866 giving error=4.4088616371154785
+INFO:__main__:Number of active components (giving 99% of the energy) is 3 out of 55
+
+INFO:__main__:TP: 3.00000, TN : 51.00000, FP : 0.00000, FN : 1.00000
+
+INFO:__main__:
+Results over 9 datasets : rmse=2.2080+/-0.9217, mae=1.7691+/-0.7549,                  r2=0.5855+/-0.3165, Coverage1=0.0000+/-0.0000,                      Coverage2=0.0000+/-0.0000,                      TP=3.9000+/-0.3000, TN=29.3000+/-19.2564,                           FP=21.7000+/-19.2564, FN=0.1000+/-0.3000

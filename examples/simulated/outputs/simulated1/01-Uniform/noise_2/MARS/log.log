@@ -1,0 +1,73 @@
+INFO:__main__:Dataset of dimension  = (100, 10)
+INFO:__main__:Number of components to be estimated=55 corresponding to 10 main effects and 45 interaction effects
+
+INFO:__main__:Number of active components  is 11 out of 55
+
+INFO:__main__:Dataset 0, rmse=2.5387, mae=1.9995, r2=0.6206
+INFO:__main__:TP: 7.00000, TN : 44.00000, FP : 4.00000, FN : 0.00000
+
+INFO:__main__:
+Results over 0 datasets : rmse=2.5387+/-0.0000, mae=1.9995+/-0.0000,r2=0.6206+/-0.0000,TP=7.0000+/-0.0000,TN=44.0000+/-0.0000, FP=4.0000+/-0.0000,FN=0.0000+/-0.0000
+INFO:__main__:Number of active components  is 16 out of 55
+
+INFO:__main__:Dataset 1, rmse=2.9729, mae=2.3082, r2=0.4638
+INFO:__main__:TP: 6.00000, TN : 38.00000, FP : 10.00000, FN : 1.00000
+
+INFO:__main__:
+Results over 1 datasets : rmse=2.7558+/-0.2171, mae=2.1538+/-0.1544,r2=0.5422+/-0.0784,TP=6.5000+/-0.5000,TN=41.0000+/-3.0000, FP=7.0000+/-3.0000,FN=0.5000+/-0.5000
+INFO:__main__:Number of active components  is 14 out of 55
+
+INFO:__main__:Dataset 2, rmse=2.7416, mae=2.1047, r2=0.5721
+INFO:__main__:TP: 5.00000, TN : 39.00000, FP : 9.00000, FN : 2.00000
+
+INFO:__main__:
+Results over 2 datasets : rmse=2.7511+/-0.1774, mae=2.1375+/-0.1282,r2=0.5521+/-0.0656,TP=6.0000+/-0.8165,TN=40.3333+/-2.6247, FP=7.6667+/-2.6247,FN=1.0000+/-0.8165
+INFO:__main__:Number of active components  is 4 out of 55
+
+INFO:__main__:Dataset 3, rmse=2.1222, mae=1.6726, r2=0.7291
+INFO:__main__:TP: 4.00000, TN : 48.00000, FP : 0.00000, FN : 3.00000
+
+INFO:__main__:
+Results over 3 datasets : rmse=2.5939+/-0.3126, mae=2.0213+/-0.2299,r2=0.5964+/-0.0954,TP=5.5000+/-1.1180,TN=42.2500+/-4.0234, FP=5.7500+/-4.0234,FN=1.5000+/-1.1180
+INFO:__main__:Number of active components  is 15 out of 55
+
+INFO:__main__:Dataset 4, rmse=2.6185, mae=2.0406, r2=0.6347
+INFO:__main__:TP: 5.00000, TN : 38.00000, FP : 10.00000, FN : 2.00000
+
+INFO:__main__:
+Results over 4 datasets : rmse=2.5988+/-0.2798, mae=2.0251+/-0.2057,r2=0.6041+/-0.0867,TP=5.4000+/-1.0198,TN=41.4000+/-3.9799, FP=6.6000+/-3.9799,FN=1.6000+/-1.0198
+INFO:__main__:Number of active components  is 10 out of 55
+
+INFO:__main__:Dataset 5, rmse=4.0342, mae=2.7998, r2=0.1861
+INFO:__main__:TP: 4.00000, TN : 42.00000, FP : 6.00000, FN : 3.00000
+
+INFO:__main__:
+Results over 5 datasets : rmse=2.8380+/-0.5928, mae=2.1542+/-0.3444,r2=0.5344+/-0.1747,TP=5.1667+/-1.0672,TN=41.5000+/-3.6401, FP=6.5000+/-3.6401,FN=1.8333+/-1.0672
+INFO:__main__:Number of active components  is 17 out of 55
+
+INFO:__main__:Dataset 6, rmse=2.9498, mae=2.3503, r2=0.5258
+INFO:__main__:TP: 7.00000, TN : 38.00000, FP : 10.00000, FN : 0.00000
+
+INFO:__main__:
+Results over 6 datasets : rmse=2.8540+/-0.5502, mae=2.1823+/-0.3262,r2=0.5332+/-0.1618,TP=5.4286+/-1.1780,TN=41.0000+/-3.5857, FP=7.0000+/-3.5857,FN=1.5714+/-1.1780
+INFO:__main__:Number of active components  is 9 out of 55
+
+INFO:__main__:Dataset 7, rmse=2.8550, mae=2.2895, r2=0.5232
+INFO:__main__:TP: 5.00000, TN : 44.00000, FP : 4.00000, FN : 2.00000
+
+INFO:__main__:
+Results over 7 datasets : rmse=2.8541+/-0.5147, mae=2.1957+/-0.3072,r2=0.5319+/-0.1514,TP=5.3750+/-1.1110,TN=41.3750+/-3.4978, FP=6.6250+/-3.4978,FN=1.6250+/-1.1110
+INFO:__main__:Number of active components  is 12 out of 55
+
+INFO:__main__:Dataset 8, rmse=2.9305, mae=2.2397, r2=0.5364
+INFO:__main__:TP: 6.00000, TN : 42.00000, FP : 6.00000, FN : 1.00000
+
+INFO:__main__:
+Results over 8 datasets : rmse=2.8626+/-0.4858, mae=2.2006+/-0.2899,r2=0.5324+/-0.1427,TP=5.4444+/-1.0657,TN=41.4444+/-3.3036, FP=6.5556+/-3.3036,FN=1.5556+/-1.0657
+INFO:__main__:Number of active components  is 10 out of 55
+
+INFO:__main__:Dataset 9, rmse=3.2696, mae=2.5574, r2=0.4252
+INFO:__main__:TP: 5.00000, TN : 43.00000, FP : 5.00000, FN : 2.00000
+
+INFO:__main__:
+Results over 9 datasets : rmse=2.9033+/-0.4768, mae=2.2362+/-0.2952,r2=0.5217+/-0.1392,TP=5.4000+/-1.0198,TN=41.6000+/-3.1686, FP=6.4000+/-3.1686,FN=1.6000+/-1.0198

@@ -1,0 +1,24 @@
+INFO:__main__:Dataset of dimension  = (100, 55)
+INFO:__main__:Number of components to be estimated=55 main effects
+
+INFO:__main__:Number of components to be estimated=1540 corresponding to 55 main effects and 1485 interaction effects
+
+INFO:__main__:Some issue
+INFO:__main__:Some issue
+INFO:__main__:Some issue
+INFO:__main__:Some issue
+INFO:__main__:Number of active components  is 2 out of 55
+
+INFO:__main__:Dataset 4, rmse=3.3684, mae=2.7057, r2=0.4797
+INFO:__main__:Some issue
+INFO:__main__:Number of active components  is 3 out of 55
+
+INFO:__main__:Dataset 5, rmse=3.0700, mae=2.3732, r2=0.4854
+INFO:__main__:Some issue
+INFO:__main__:Number of active components  is 2 out of 55
+
+INFO:__main__:Dataset 6, rmse=3.2079, mae=2.6891, r2=0.4979
+INFO:__main__:Some issue
+INFO:__main__:Some issue
+INFO:__main__:Some issue
+INFO:__main__:Some issue

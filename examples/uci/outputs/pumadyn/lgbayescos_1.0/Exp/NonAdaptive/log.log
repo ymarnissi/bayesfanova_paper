@@ -1,0 +1,103 @@
+INFO:__main__:Method lgbayescos running...
+
+INFO:__main__:Dataset pumadyn of dimension  = (1000, 8)
+INFO:__main__:Number of components to be estimated=36 corresponding to 8 main effects and 28 interaction effects
+
+INFO:__main__:Fold 0, rmse=3.1584, mae=2.5010, r2=0.6922, coverage mean +/- 2.std =0.7600, coverage equal tailed 0.9 interval = 0.7600 
+INFO:__main__:Number of active components (giving 99% of the energy) is 17 out of 36
+
+INFO:__main__:
+Results over 1 folds : rmse=3.1584+/-0.0000, mae=2.5010+/-0.0000, r2=0.6922+/-0.0000, Coverage1=0.7600+/-0.0000, Coverage2=0.7600+/-0.0000
+INFO:__main__:Fold 1, rmse=3.0433, mae=2.4214, r2=0.6717, coverage mean +/- 2.std =0.7700, coverage equal tailed 0.9 interval = 0.7700 
+INFO:__main__:Number of active components (giving 99% of the energy) is 17 out of 36
+
+INFO:__main__:
+Results over 2 folds : rmse=3.1009+/-0.0576, mae=2.4612+/-0.0398, r2=0.6819+/-0.0102, Coverage1=0.7650+/-0.0050, Coverage2=0.7650+/-0.0050
+INFO:__main__:Fold 2, rmse=3.6043, mae=2.7797, r2=0.5548, coverage mean +/- 2.std =0.7450, coverage equal tailed 0.9 interval = 0.7400 
+INFO:__main__:Method lgbayescos running...
+
+INFO:__main__:Dataset pumadyn of dimension  = (1000, 8)
+INFO:__main__:Number of components to be estimated=36 corresponding to 8 main effects and 28 interaction effects
+
+INFO:__main__:
+Some covergence issues for fold0
+INFO:__main__:
+Some covergence issues for fold1
+INFO:__main__:
+Some covergence issues for fold2
+INFO:__main__:
+Some covergence issues for fold3
+INFO:__main__:
+Some covergence issues for fold4
+INFO:__main__:
+Results : rmse=nan+/-nan, mae=nan+/-nan, r2=nan+/-nan, Coverage1=nan+/-nan, Coverage2=nan+/-nan, active=nan+/-nan
+INFO:__main__:Method lgbayescos running...
+
+INFO:__main__:Dataset pumadyn of dimension  = (1000, 8)
+INFO:__main__:Number of components to be estimated=36 corresponding to 8 main effects and 28 interaction effects
+
+INFO:__main__:Fold 0, rmse=4.6062, mae=3.8137, r2=0.3452, coverage mean +/- 2.std =1.0000, coverage equal tailed 0.9 interval = 1.0000 
+INFO:__main__:Method lgbayescos running...
+
+INFO:__main__:Dataset pumadyn of dimension  = (1000, 8)
+INFO:__main__:Number of components to be estimated=36 corresponding to 8 main effects and 28 interaction effects
+
+INFO:__main__:
+Some covergence issues for fold0
+INFO:__main__:
+Some covergence issues for fold1
+INFO:__main__:
+Some covergence issues for fold2
+INFO:__main__:
+Some covergence issues for fold3
+INFO:__main__:
+Some covergence issues for fold4
+INFO:__main__:
+Results : rmse=nan+/-nan, mae=nan+/-nan, r2=nan+/-nan, Coverage1=nan+/-nan, Coverage2=nan+/-nan, active=nan+/-nan
+INFO:__main__:Method lgbayescos running...
+
+INFO:__main__:Dataset pumadyn of dimension  = (1000, 8)
+INFO:__main__:Number of components to be estimated=36 corresponding to 8 main effects and 28 interaction effects
+
+INFO:__main__:Method lgbayescos running...
+
+INFO:__main__:Dataset pumadyn of dimension  = (1000, 8)
+INFO:__main__:Number of components to be estimated=36 corresponding to 8 main effects and 28 interaction effects
+
+INFO:__main__:Method lgbayescos running...
+
+INFO:__main__:Dataset pumadyn of dimension  = (1000, 8)
+INFO:__main__:Number of components to be estimated=36 corresponding to 8 main effects and 28 interaction effects
+
+INFO:__main__:Method lgbayescos running...
+
+INFO:__main__:Dataset pumadyn of dimension  = (1000, 8)
+INFO:__main__:Number of components to be estimated=36 corresponding to 8 main effects and 28 interaction effects
+
+INFO:__main__:Fold 0, rmse=3.1636, mae=2.5114, r2=0.6911, coverage mean +/- 2.std =0.9550, coverage equal tailed 0.9 interval = 0.9500 
+INFO:__main__:Number of active components (giving 99% of the energy) is 18 out of 36
+
+INFO:__main__:
+Results over 1 folds : rmse=3.1636+/-0.0000, mae=2.5114+/-0.0000, r2=0.6911+/-0.0000, Coverage1=0.9550+/-0.0000, Coverage2=0.9500+/-0.0000
+INFO:__main__:Fold 1, rmse=3.0534, mae=2.4292, r2=0.6696, coverage mean +/- 2.std =0.9700, coverage equal tailed 0.9 interval = 0.9650 
+INFO:__main__:Number of active components (giving 99% of the energy) is 15 out of 36
+
+INFO:__main__:
+Results over 2 folds : rmse=3.1085+/-0.0551, mae=2.4703+/-0.0411, r2=0.6804+/-0.0108, Coverage1=0.9625+/-0.0075, Coverage2=0.9575+/-0.0075
+INFO:__main__:Fold 2, rmse=3.6065, mae=2.7846, r2=0.5542, coverage mean +/- 2.std =0.9100, coverage equal tailed 0.9 interval = 0.9050 
+INFO:__main__:Number of active components (giving 99% of the energy) is 20 out of 36
+
+INFO:__main__:
+Results over 3 folds : rmse=3.2745+/-0.2391, mae=2.5751+/-0.1519, r2=0.6383+/-0.0601, Coverage1=0.9450+/-0.0255, Coverage2=0.9400+/-0.0255
+INFO:__main__:Fold 3, rmse=3.0011, mae=2.2875, r2=0.6864, coverage mean +/- 2.std =0.9600, coverage equal tailed 0.9 interval = 0.9450 
+INFO:__main__:Number of active components (giving 99% of the energy) is 16 out of 36
+
+INFO:__main__:
+Results over 4 folds : rmse=3.2062+/-0.2385, mae=2.5032+/-0.1811, r2=0.6503+/-0.0561, Coverage1=0.9487+/-0.0230, Coverage2=0.9413+/-0.0222
+INFO:__main__:Fold 4, rmse=3.4151, mae=2.7587, r2=0.6532, coverage mean +/- 2.std =0.9600, coverage equal tailed 0.9 interval = 0.9550 
+INFO:__main__:Number of active components (giving 99% of the energy) is 22 out of 36
+
+INFO:__main__:
+Results over 5 folds : rmse=3.2479+/-0.2291, mae=2.5543+/-0.1916, r2=0.6509+/-0.0502, Coverage1=0.9510+/-0.0211, Coverage2=0.9440+/-0.0206
+INFO:__main__:
+Results : rmse=3.2479+/-0.2291, mae=2.5543+/-0.1916, r2=0.6509+/-0.0502, Coverage1=0.9510+/-0.0211, Coverage2=0.9440+/-0.0206, active=18.2000+/-2.5612
