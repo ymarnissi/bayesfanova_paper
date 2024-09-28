@@ -3,7 +3,7 @@
   <h3 align="center">Bayesanova project</h3>
 
 [![Paper](https://img.shields.io/badge/OpenReview-PDF-blue)](https://openreview.net/pdf?id=dV9QGostQk)
-[![Conference](http://img.shields.io/badge/ICML-2024-4b44ce)](https://https://icml.cc)
+[![Conference](http://img.shields.io/badge/ICML-2024-4b44ce)](https://icml.cc/Conferences/2024)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?labelColor=gray)](https://github.com/ymarnissi/bayesfanova_paper/blob/main/LICENSE)
 [![Python](https://img.shields.io/badge/-Python_3.8-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Pytorch](https://img.shields.io/badge/PyTorch_1.8-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org/)
