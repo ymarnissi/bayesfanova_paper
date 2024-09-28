@@ -2,7 +2,7 @@
 
   <h3 align="center">Bayesanova project</h3>
 
-[![Paper](http://img.shields.io/badge/paper-arxiv-b31b1b.svg)](https://arxiv.org/abs/2208.10886)
+[![Paper](http://img.shields.io/badge/paper-arxiv-b31b1b.svg)]([https://arxiv.org/abs/2208.10886](https://openreview.net/pdf?id=dV9QGostQk))
 [![Conference](http://img.shields.io/badge/ICML-2023-4b44ce)](https://https://icml.cc)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?labelColor=gray)](https://github.com/ymarnissi/Sampling#license)
 ![Downloads](https://img.shields.io/github/downloads/ymarnissi/Sampling/total)
