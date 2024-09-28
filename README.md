@@ -18,9 +18,7 @@
 * [About the Project](#about-the-project)
 * [Project Structure](#project-structure)
 * [Installation](#installation)
-* [Paper](#paper)
-* [Citation](#citation)
-* [License](#license)
+* [Usage](#usage)
 
 
 <!-- ABOUT THE PROJECT -->
