@@ -19,6 +19,7 @@
 * [Project Structure](#project-structure)
 * [Installation](#installation)
 * [Usage](#usage)
+* [Paper](#Paper)
 
 
 <!-- ABOUT THE PROJECT -->
@@ -108,3 +109,15 @@ estimator.predict(test_x, kind='interaction') # Return all interaction component
 estimator.predict(test_x, kind='residual') # Return residual component (only available for Bayesian method)
 ```
 
+<!-- Paper -->
+## Paper
+```
+@inproceedings{marnissi2024unified,
+  title={A Unified View of FANOVA: A Comprehensive Bayesian Framework for Component Selection and Estimation},
+  author={Marnissi, Yosra and Leiber, Maxime},
+  booktitle={International Conference on Machine Learning},
+  pages={34866--34894},
+  year={2024},
+  organization={PMLR}
+}
+```
